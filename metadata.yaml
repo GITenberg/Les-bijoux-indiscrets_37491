@@ -1,0 +1,32 @@
+_repo: Les-bijoux-indiscrets_37491
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Diderot, Denis
+    alias: Diderot, Pantophile
+    birthdate: 1713
+    deathdate: 1784
+    gutenberg_agent_id: '2071'
+    url: http://www.gutenberg.org/2009/agents/2071
+    wikipedia:
+    - http://fr.wikipedia.org/wiki/Denis_Diderot
+    - http://en.wikipedia.org/wiki/Denis_Diderot
+description: ''
+gutenberg_bookshelf: FR Séduction et libertinage
+gutenberg_issued: '2011-09-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37491'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Erotic stories'
+- !lcsh 'Louis XV, King of France, 1710-1774 -- Fiction'
+- !lcc 'PQ'
+title: Les bijoux indiscrets
+url: http://www.gutenberg.org/ebooks/37491
