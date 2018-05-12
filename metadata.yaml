@@ -15,6 +15,8 @@ creator:
     - http://fr.wikipedia.org/wiki/Denis_Diderot
     - http://en.wikipedia.org/wiki/Denis_Diderot
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/37491#Les-bijoux-indiscrets
 gutenberg_bookshelf: FR Séduction et libertinage
 gutenberg_issued: '2011-09-20'
 gutenberg_type: Text
